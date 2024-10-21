@@ -2,10 +2,10 @@
 
 
 module.exports = {
-	host: 'play.eternal.gs',
-    port: 25565,
+	host: 'StoneCraftN.aternos.me',
+    port: 117755,
     username: '',
     password: '',
 	// Use mojang for yggdrasil login, microsoft for Microsoft login
-	auth: 'mojang'
+	auth: ''
 };
