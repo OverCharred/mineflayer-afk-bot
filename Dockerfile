@@ -9,8 +9,7 @@ LABEL maintainer="Jordan Jones <me@jordanjones.org>" \
 RUN mkdir -p /opt/minecraftafkbot
 WORKDIR /opt/minecraftafkbot
 
-COPY package.json yarn.lock ./
-
+COPY package.json ./
 RUN yarn install --production
 
 COPY . .
