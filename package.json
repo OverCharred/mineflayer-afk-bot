@@ -6,7 +6,8 @@
     "fs-nextra": "^0.5.1",
     "mineflayer": "https://github.com/PrismarineJS/mineflayer",
     "node-fetch": "^2.6.7",
-    "ws": "^8.0.0"
+    "ws": "^8.0.0",
+    "lodash": "^4.17.21",
   },
   "devDependencies": {
     "eslint": "8.47.0",
